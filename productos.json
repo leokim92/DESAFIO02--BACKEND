@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Cafetera Express",
+    "description": "Cafetera Express con capacidad de 1.8 litros y potencia de 1100W.",
+    "price": 99.99,
+    "thumbnail": "https://ejemplo.com/imagen-cafetera.jpg",
+    "code": "CAFEXP123",
+    "stock": 142
+  },
+  {
+    "title": "Jonny gay",
+    "description": "vuela suave",
+    "price": 1025,
+    "thumbnail": "fm3o3445",
+    "code": "animal",
+    "id": 2
+  },
+  {
+    "title": "lechuza",
+    "description": "vuela suave",
+    "price": 134,
+    "thumbnail": "fm3o3445",
+    "code": "animal",
+    "stock": 142,
+    "id": 3
+  },
+  {
+    "title": "afsdfsdf",
+    "description": "wegfdgrg",
+    "price": 12354,
+    "thumbnail": "fdg34g",
+    "code": "bbbbbbbb",
+    "stock": 2908,
+    "id": 4
+  },
+  {
+    "title": "gom4",
+    "description": "fgklm3",
+    "price": 19475,
+    "thumbnail": "fgpomb",
+    "code": "ccccc",
+    "stock": 3456,
+    "id": 5
+  }
+]
